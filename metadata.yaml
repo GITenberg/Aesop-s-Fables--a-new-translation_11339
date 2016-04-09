@@ -1,0 +1,49 @@
+_repo: Aesop-s-Fables-a-new-translation_11339
+_version: 0.0.1
+contributor:
+  commentator:
+    agent_name: Chesterton, G. K. (Gilbert Keith)
+    aliases:
+    - Chesterton, Gilbert Keith
+    - Chesterton, Gilbert K. (Gilbert Keith)
+    birthdate: 1874
+    deathdate: 1936
+    gutenberg_agent_id: '80'
+    url: http://www.gutenberg.org/2009/agents/80
+    wikipedia: http://en.wikipedia.org/wiki/G._K._Chesterton
+  illustrator:
+    agent_name: Rackham, Arthur
+    birthdate: 1867
+    deathdate: 1939
+    gutenberg_agent_id: '6335'
+    url: http://www.gutenberg.org/2009/agents/6335
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Rackham
+  translator:
+    agent_name: Vernon Jones, V. S. (Vernon Stanley)
+    alias: Jones, V. S. Vernon (Vernon Stanley Vernon)
+    gutenberg_agent_id: '6641'
+    url: http://www.gutenberg.org/2009/agents/6641
+creator:
+  author:
+    agent_name: Aesop
+    alias: Æsop
+    gutenberg_agent_id: '18'
+    url: http://www.gutenberg.org/2009/agents/18
+    wikipedia: http://en.wikipedia.org/wiki/Aesop
+description: 'See also the early planned PG version #28, and comprehensive versions
+  PG#21 tr. by George Fyler Townsend, and illustrated PG#18732.'
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11339'
+language: en
+publication_note: 'New York: Avenel Books, 1912'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fables, Greek -- Translations into English'
+- !lcc 'PA'
+- GITenberg
+title: Aesop's Fables; a new translation
+url: http://www.gutenberg.org/ebooks/11339
