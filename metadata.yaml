@@ -1,5 +1,5 @@
 _repo: Aesop-s-Fables--a-new-translation_11339
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   commentator:
     agent_name: Chesterton, G. K. (Gilbert Keith)
@@ -23,6 +23,9 @@ contributor:
     alias: Jones, V. S. Vernon (Vernon Stanley Vernon)
     gutenberg_agent_id: '6641'
     url: http://www.gutenberg.org/2009/agents/6641
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Aesop
@@ -32,6 +35,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Aesop
 description: 'See also the early planned PG version #28, and comprehensive versions
   PG#21 tr. by George Fyler Townsend, and illustrated PG#18732.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11339#Aesop-s-Fables--a-new-translation
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
 identifiers:
